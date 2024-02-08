@@ -8,7 +8,7 @@ This web application provides detailed information about various countries, incl
 
 ## Live Demo
 
-Check out the live demo: [Weather and Country Information Web App]()
+Check out the live demo: [Weather and Country Information Web App](https://rest-countries-manu.netlify.app/)
 
 ## Features:
 
